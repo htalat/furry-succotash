@@ -1,0 +1,20 @@
+{
+  "name": "fcc-voting-app",
+  "version": "1.0.0",
+  "description": "clusterFuckNumber999",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Hassan Talat",
+  "dependencies": {
+    "express": "^4.12.4",
+    "mongodb": "^2.0.33",
+    "express-session": "^1.11.3",
+    "mongoose": "^4.1.0",
+    "passport": "^0.3.0",
+   "underscore": "1.5.2"    
+    
+  }
+}
