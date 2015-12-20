@@ -6,3 +6,4 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
     mean stack project !
+    Thanks to https://scotch.io/courses/easy-node-authentication for the awesome tutorial on setting up authentication.
